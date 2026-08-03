@@ -3,8 +3,8 @@ export const restaurantInfo = {
   logo: null, // Null to trigger beautiful typographic logo fallback
   isOpen: true,
   rating: "4.8",
-  address: "Bole Road, Addis Ababa, Ethiopia",
-  phone: "+251 946 850 000 / +251 946 980 000",
+  address: " Addis Ababa, Ethiopia",
+  phone: "",
   openingHours: "Daily: 7:00 AM - 10:00 PM",
   promoText: "For one food order one water is free",
 }
